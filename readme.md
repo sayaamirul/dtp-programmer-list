@@ -1,0 +1,9 @@
+# Daftar Profil Peserta DTP Programmer 2025
+
+Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digital Talent Program - Programmer
+
+### Contoh Format :
+
+`⁠- ⁠Muhammad Amirul Ihsan [Repository Github](https://github.com/sayaamirul)`
+
+### Daftar Peserta :
