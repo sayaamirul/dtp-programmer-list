@@ -7,3 +7,4 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 `⁠- ⁠Muhammad Amirul Ihsan [Repository Github](https://github.com/sayaamirul)`
 
 ### Daftar Peserta :
+`⁠- ⁠Muhammad Naufal Rafa Al As'ad [Repository Github](https://github.com/Falrafa4)`
