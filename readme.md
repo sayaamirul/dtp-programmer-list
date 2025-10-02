@@ -8,3 +8,4 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 
 ### Daftar Peserta :
 ⁠- ⁠Muhammad Naufal Rafa Al As'ad [Repository Github](https://github.com/Falrafa4)
+- Arya Chaka Braja Wisesa [Repository Github](https://github.com/AryaVira)
