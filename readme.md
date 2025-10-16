@@ -7,7 +7,8 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 `- Muhammad Amirul Ihsan [Repository Github](https://github.com/sayaamirul)`
 
 ### Daftar Peserta :
-- Muhammad Naufal Rafa Al As'ad [Repository Github](https://github.com/Falrafa4)
+⁠- ⁠Muhammad Naufal Rafa Al As'ad [Repository Github](https://github.com/Falrafa4)
+⁠- Ershon Juan Pelamonia [Repository Github](https://github.com/ytta0301)
 - Firman Dwi Nugraha [Repository Github](https://github.com/FirmanGanteng08)
 - Evelyn Nafil Rasendriya [Repository Github](https://github.com/evelynnafil11-hub/belajar-python.git)
 - Zaina Fildza Ghaisani [Repository Github](https://github.com/zainafldzG/belaajr-python.git)
