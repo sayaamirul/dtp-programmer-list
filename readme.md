@@ -27,3 +27,4 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 - Nesha Hazimah Anjani [Repository Github](https://github.com/neshadtp)
 - Muhammad Nawfal Rasikhuddin [Repository Github](https://github.com/MuhammadNawfalRasikhuddin)
 - Naadhim Fahly Mubaarok [Repository Github](https://github.com/Nademmm)
+- Jahfal Azhar [Repository Github](https://github.com/Jahfal1145)
