@@ -12,3 +12,8 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 - Zaina Fildza Ghaisani [Repository Github](https://github.com/zainafldzG/belaajr-python.git)
 - Arya Chaka Braja Wisesa [Repository Github](https://github.com/AryaVira)
 - Athallah Baadi Eshan Raqilliawan[Repository Github](https://github.com/ezhann1)
+- Narayana Mahendra Abimanyu [Repository Github](https://github.com/NarayanaMahendraAbimanyu)
+- Muhammad Tezar Akbarsyah [Repository Github](https://github.com/tezar732412)
+- Nesha Hazimah Anjani [Repository Github](https://github.com/neshadtp)
+- Muhammad Nawfal Rasikhuddin [Repository Github](https://github.com/MuhammadNawfalRasikhuddin)
+- Naadhim Fahly Mubaarok [Repository Github](https://github.com/Nademmm)
